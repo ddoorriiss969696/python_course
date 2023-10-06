@@ -6,7 +6,7 @@ import sys;
 
 # print hellowrld with variable 
 def hello():
-    print('1100564 鄭羽真')
+    print('1100564 鄭羽真!')
 
 
 def showpythonversion():
