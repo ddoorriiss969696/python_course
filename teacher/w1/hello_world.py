@@ -3,13 +3,13 @@ import sys;
 
 # hello world 
 
-print('hello world line 1')
+print('hello world ')
 
-print('hello world line 2')
+print('hello world 1100564')
 
-print('hello world line 3')
+print('hello world 鄭羽真')
 
-print('hello world line  xx')
+print('hello world')
 
 # print hellowrld with variable 
 def hello():
